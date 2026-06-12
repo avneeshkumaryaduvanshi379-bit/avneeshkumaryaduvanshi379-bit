@@ -49,8 +49,6 @@ I'm a BCA student passionate about , Python Development, and Web Technologies. I
 
 🔹 Python Projects Collection
 
-🔹 Data Analysis Projects(coming soon)
-
 🔹 Front-End Web Development Projects
 
 🔹 Machine Learning Projects (Coming Soon)
